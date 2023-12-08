@@ -21,6 +21,10 @@ function add_new_update_from_feature_b(){
     return "ok";
 }
 
+function latest_update_feature_b() {
+    return "x";
+}
+
 
 /**
  * 
