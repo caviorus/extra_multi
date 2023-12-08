@@ -1,5 +1,5 @@
 <?php
 
-function index(){
-    return "xxx";
+function feature_a(){
+    return "it's feature a";
 }
