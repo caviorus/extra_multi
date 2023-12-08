@@ -1,5 +1,9 @@
 <?php
 
-function feature_a(){
-    return "it's feature a";
+function index(){
+    return "xxx";
+}
+
+function current_feature($param){
+    echo "current feature is $param";
 }
