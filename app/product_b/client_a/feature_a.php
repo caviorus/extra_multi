@@ -5,6 +5,10 @@ function feature_a(){
     return "it's feature a";
 }
 
+function change_from_feature_b(){
+    return "here";
+}
+
 function current_feature($param){
     echo "current feature is $param";
 }
