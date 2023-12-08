@@ -20,3 +20,9 @@ function update_from_feature_a() {
 function add_new_update_from_feature_b(){
     return "ok";
 }
+
+
+/**
+ * 
+ * the end of file
+ */
