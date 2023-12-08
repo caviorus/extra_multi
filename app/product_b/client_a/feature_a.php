@@ -1,6 +1,7 @@
 <?php
 
 function feature_a(){
+    $q = "It's from feature a";
     return "it's feature a";
 }
 
