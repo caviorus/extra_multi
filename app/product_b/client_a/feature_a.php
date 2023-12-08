@@ -12,3 +12,7 @@ function change_from_feature_b(){
 function current_feature($param){
     echo "current feature is $param";
 }
+
+function update_from_feature_a() {
+    return "here";
+}
