@@ -16,3 +16,7 @@ function current_feature($param){
 function update_from_feature_a() {
     return "here";
 }
+
+function add_new_update_from_feature_b(){
+    return "ok";
+}
